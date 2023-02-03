@@ -13,7 +13,7 @@ Ahora debe instalar el parche ingles de [Committee of Zero](http://sonome.dareno
  2. Extrae los archivos y ejecuta la instalación de `SG0Patch-Installer.exe`
  >  Si el instalador se cierra con el error  `MSVCP140_1.dll`, Instala [Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe)  (32-bit versión, vc_redist.x86.exe - dependiendo de tu sistema operativo) e inténtalo de nuevo
 
-Una vez terminada la instalación del parche debe irse a la carpeta en la que tiene instalado **Steins;Gate 0** normalmente se encuentra en `C:\Program Files (x86)\Steam\steamapps\common\STEINS;GATE 0` Cuando estemos en la dirección, debemos ir a la carpeta `languagebarrier` y reemplazar el archivo `enscript_h.mpk` por el que esta en [este repositorio](https://github.com/Sarag1/Steins-es-0/releases/download/1.0/enscript_h.mpk)
+Una vez terminada la instalación del parche debe irse a la carpeta en la que tiene instalado **Steins;Gate 0** normalmente se encuentra en `C:\Program Files (x86)\Steam\steamapps\common\STEINS;GATE 0` Cuando estemos en la dirección, debemos ir a la carpeta `languagebarrier` y reemplazar los archivos por los de [Este Rar](https://github.com/Sarag1/Steins-es-0/releases/download/1.0/languagebarrier.rar).
 
 y eso es todo, ya esta el juego parchado al español.
 ## Errores conocidos
